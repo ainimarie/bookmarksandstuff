@@ -8,4 +8,4 @@ some memos to be lost forever
 - markdown
   - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 - lodash
-  - https://github.com/lodash/lodash/wiki/FP-Guide
+  - lodash/fp https://github.com/lodash/lodash/wiki/FP-Guide
